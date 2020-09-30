@@ -22,6 +22,7 @@
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
 - [Divyesh Jain](https://github.com/BlitW0)
+- [Khushi Srivastav](https://github.com/black73)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
 - [Stacy Meichle](https://github.com/smeichle)
 - [prince1508](http://github.com/prince1508)
